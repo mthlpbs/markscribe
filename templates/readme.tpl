@@ -8,7 +8,7 @@ When I'm not doing school or working on a project, I enjoy flying drones and mak
 {{- end}}
 
 #### ⌨️ My latest projects
-{{range recentCreatedRepos "taciturnaxolotl" 4}}
+{{range recentCreatedRepos "mthlpbs" 4}}
 - [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
@@ -33,4 +33,4 @@ Email: me@dunkirk.sh
 Slack: @krn (hackclub.com/slack)
 ```
 
-_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
+_readme auto updates on the hour via [**`mthlpbs/markscribe`**](https://github.com/mthlpbs/markscribe)_
